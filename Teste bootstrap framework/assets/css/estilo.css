@@ -1,0 +1,67 @@
+body {
+    margin: 0px !important;
+}
+
+nav {
+    
+    transition: all .5s linear;
+    
+}
+
+nav:hover {
+    
+    background-color: rgb(255, 255, 255) !important; 
+}
+
+a:hover {
+    color: rgb(255, 0, 179) !important;
+}
+
+.d-block {
+    
+    height: 500px;
+    border-radius: 20px;
+    
+}
+
+#carouselExampleIndicators {
+
+    margin: 50px;
+    
+}
+
+
+.row {
+    margin: auto;
+    padding: 20px;
+}
+
+.footer {
+
+    background-color: black;
+}
+
+#footer {
+
+    color: white;
+}
+
+
+#ifood1 {
+    
+    
+}
+
+#ifood2 {
+    
+    
+}
+
+#ifood3 {
+    
+}
+
+
+.ifood-imagens {
+    text-align: center;
+}
